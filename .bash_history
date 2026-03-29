@@ -79,3 +79,4 @@ nano main.tf
 vi  main.tf
 terraform init
 terraform plan
+clear

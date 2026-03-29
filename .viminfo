@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1774767211,,"wq!"
+|2,0,1774782992,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  6  0  ~/test-terraform/main.tf
-|4,48,6,0,1774767211,"~/test-terraform/main.tf"
+'0  9  12  ~/gitignore
+|4,48,9,12,1774782992,"~/gitignore"
+'1  6  0  ~/test-terraform/main.tf
+|4,49,6,0,1774767211,"~/test-terraform/main.tf"
 
 # Jumplist (newest first):
+-'  9  12  ~/gitignore
+|4,39,9,12,1774782992,"~/gitignore"
+-'  1  0  ~/gitignore
+|4,39,1,0,1774782981,"~/gitignore"
+-'  6  0  ~/test-terraform/main.tf
+|4,39,6,0,1774767211,"~/test-terraform/main.tf"
 -'  6  0  ~/test-terraform/main.tf
 |4,39,6,0,1774767211,"~/test-terraform/main.tf"
 -'  1  0  ~/test-terraform/main.tf
 |4,39,1,0,1774767191,"~/test-terraform/main.tf"
+-'  1  0  ~/test-terraform/main.tf
+|4,39,1,0,1774767191,"~/test-terraform/main.tf"
 
 # History of marks within files (newest to oldest):
+
+> ~/gitignore
+	*	1774782989	0
+	"	9	12
+	^	9	13
+	.	9	12
+	+	9	12
 
 > ~/test-terraform/main.tf
 	*	1774767202	0
