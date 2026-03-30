@@ -15,7 +15,13 @@ jobs:
 
       - name: Debug files
         run: |
+<<<<<<< HEAD
           pwd
+=======
+          echo "Current directory:"
+          pwd
+          echo "Project structure:"
+>>>>>>> be392b3 (remove duplicate workflow)
           ls -R
 
       - name: Build Docker Image
