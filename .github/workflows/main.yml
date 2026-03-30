@@ -15,19 +15,8 @@ jobs:
 
       - name: Debug files
         run: |
-<<<<<<< HEAD
-<<<<<<< HEAD
           pwd
-=======
-          echo "Current directory:"
-          pwd
-          echo "Project structure:"
->>>>>>> be392b3 (remove duplicate workflow)
-=======
-          pwd
->>>>>>> ee87764 (fix docker path issue)
           ls -R
 
       - name: Build Docker Image
         run: docker build -t devops-app -f docker/Dockerfile .
-
